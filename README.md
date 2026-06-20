@@ -1,5 +1,4 @@
 # Bank-Loan-Analytics-Dashboard
-# Bank Loan Analytics Dashboard
 
 ## Project Overview
 **This Power BI dashboard provides insights into bank loan applications, funded amounts, repayments, interest rates, DTI ratios, and loan performance analysis. The project helps stakeholders monitor lending performance and identify loan trends using interactive visualizations.**
