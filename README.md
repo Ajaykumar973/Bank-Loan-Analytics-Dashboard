@@ -41,13 +41,13 @@ dashboard/
 └── docs/
 ```
 
-## Screenshots
-
 ### Summary Dashboard
-![Summary Dashboard](screenshots/summary-dashboard.png)
+
+![Summary Dashboard](Summary.dashboard.png)
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/overview-dashboard.png)
+
+![Overview Dashboard](Overview.dashboard.png)
 
 ## Business Insights
 - Majority of loans are categorized as good loans.
